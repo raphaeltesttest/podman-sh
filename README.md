@@ -1,6 +1,6 @@
 <p align="center">
 	<a alt="Docker-Cloud Build Status" href="https://hub.docker.com/r/otaviof/podman-sh">
-		<img alt="Docker-Cloud Build Status" src="https://img.shields.io/docker/cloud/build/otaviof/podman-sh.svg">
+	<img alt="Docker-Cloud Build Status" src="https://img.shields.io/docker/cloud/build/otaviof/podman-sh.svg">
 	</a>
 </p>
 
